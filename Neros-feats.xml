@@ -5,7 +5,7 @@
 		<description>Nero's custom feats</description>
 		<author url="https://www.youtube.com/channel/UCc8EXYrN-pQwtmk-Ex0Kovg">Neroizm</author>
 		<update version="0.0.1">
-			<file name="Neros-feats.xml"/>
+			<file name="Neros-feats.xml" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/Neros-feats.xml" />
 		</update>
 	</info>
 
