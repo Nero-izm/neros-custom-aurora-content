@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Feats</name>
+		<description>Nero's custom feats</description>
+		<author url="https://www.youtube.com/channel/UCc8EXYrN-pQwtmk-Ex0Kovg">Neroizm</author>
+		<update version="0.0.1">
+			<file name="Neros-feats.xml"/>
+		</update>
+	</info>
+
+	<element name="Jim's Hubris" type="Feat" source="Nero's custom feats" id="ID_NCF_FEAT_JIMSH">
+		<description>
+			<p>After questionable Experimentation you gain the following effects</p>
+			<ul>
+				<li>Your flesh and bone are now crystal quartz.</li>
+				<li>Magic piezoelctric crytals now grow from nodes across your body, namely your horns</li>
+				<li>You gain dermal crystals equal to your total spell slots crystals can be combined or broken down for different level spellcasting they also act as your spell focus, attempts to harvest crystals past spell slot amount will cause damage (at the discretion of your DM); Crystals grow back proportinal to healing (rate at DM's discretion) if crystals are allowed to grow without culling for 48 hours they become volatile, volatile crystals act like sorcerer wild magic on any interaction (roll a d20, if you roll a 1 roll from the wild magic table, d100) </li>
+			</ul>
+		</description>
+		<sheet>
+			<description>Your flesh and bone are now crystal quartz.
+			You gain dermal crystals equal to your total spell slots crystals can be combined or broken down for different level spellcasting they also act as your spell focus, attempts to harvest crystals past spell slot amount will cause damage (at the discretion of your DM); Crystals grow back proportinal to healing (rate at DM's discretion) if crystals are allowed to grow without culling for 48 hours they become volatile, volatile crystals act like sorcerer wild magic on any interaction (roll a d20, if you roll a 1 roll from the wild magic table, d100).</description>
+		</sheet>
+	</element>
+</elements>
