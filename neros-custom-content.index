@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Nero's custom content</name>
+		<update version="0.0.1">
+			<file name="neros-custom-content.index" url="" />
+		</update>
+	</info>
+	<files>
+		<file name="race-quartz-dragonborn.xml" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/race-quartz-dragonborn.xml" />
+		<file name="Neros-feats.xml" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/Neros-feats.xml" />
+	</files>
+</index>
