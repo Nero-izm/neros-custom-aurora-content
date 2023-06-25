@@ -11,6 +11,5 @@
 	<files>
 		<file name="race-quartz-dragonborn.xml" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/race-quartz-dragonborn.xml" />
 		<file name="Neros-feats.xml" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/Neros-feats.xml" />
-		<file name="option-feat.xml" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/option-feat.xml" />
 	</files>
 </index>
