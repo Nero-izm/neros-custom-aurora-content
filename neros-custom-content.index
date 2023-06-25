@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>Nero's custom content</name>
+		<name>Nero's custom content + help</name>
 		<author url="https://github.com/Nero-izm/neros-custom-aurora-content/tree/main">Neroizm</author>
-		<description>Nero's silly little homebrew.</description>
+		<description>Nero's silly little homebrew + help.</description>
 		<update version="0.0.1">
 			<file name="neros-custom-content.index" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/neros-custom-content.index" />
 		</update>
@@ -11,5 +11,6 @@
 	<files>
 		<file name="race-quartz-dragonborn.xml" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/race-quartz-dragonborn.xml" />
 		<file name="Neros-feats.xml" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/Neros-feats.xml" />
+		<file name="option-feat.xml" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/option-feat.xml" />
 	</files>
 </index>
