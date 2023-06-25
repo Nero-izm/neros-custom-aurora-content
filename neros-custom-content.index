@@ -2,6 +2,8 @@
 <index>
 	<info>
 		<name>Nero's custom content</name>
+		<author url="https://github.com/Nero-izm/neros-custom-aurora-content/tree/main">Neroizm</author>
+		<description>Nero's silly little homebrew.</description>
 		<update version="0.0.1">
 			<file name="neros-custom-content.index" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/neros-custom-content.index" />
 		</update>
