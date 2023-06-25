@@ -3,7 +3,7 @@
 	<info>
 		<name>Nero's custom content</name>
 		<update version="0.0.1">
-			<file name="neros-custom-content.index" url="" />
+			<file name="neros-custom-content.index" url="https://raw.githubusercontent.com/Nero-izm/neros-custom-aurora-content/main/neros-custom-content.index" />
 		</update>
 	</info>
 	<files>
